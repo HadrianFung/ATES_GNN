@@ -1,0 +1,26 @@
+name: ATES
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - ipython
+  - numpy
+  - meshio
+  - networkx
+  - pandas
+  - pytorch
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - plotly
+  - pip
+  - pip:
+    - torch
+    - torch-scatter
+    - torch-sparse
+    - torch-cluster
+    - torch-spline-conv
+    - torch-geometric
+    - -r requirements.txt
