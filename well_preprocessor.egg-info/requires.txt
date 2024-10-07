@@ -1,0 +1,7 @@
+numpy
+meshio
+networkx
+pandas
+torch-geometric
+scikit-learn
+scipy
