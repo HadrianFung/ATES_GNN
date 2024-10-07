@@ -1,4 +1,4 @@
-# Independent Research Project
+# Independent Research Project (MSc thesis)
 ## Rapid modelling of ATES using Machine Learning
 
 This repository demonstrates the deployment and visualization of the ML-based models that delivers accurate prediction on subsurface temperature and pressure by auto-regressive Graph Neural Network. It contains model architecture and pre-trained models that can perform prediction on data generated from IC-FERST (link : [more details on IC-FERST](https://www.imperial.ac.uk/earth-science/research/research-groups/norms/software/ic-ferst/)).
